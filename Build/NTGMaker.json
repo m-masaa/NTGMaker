@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "NTGMaker.data.unityweb",
+"asmCodeUrl": "NTGMaker.asm.code.unityweb",
+"asmMemoryUrl": "NTGMaker.asm.memory.unityweb",
+"asmFrameworkUrl": "NTGMaker.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
